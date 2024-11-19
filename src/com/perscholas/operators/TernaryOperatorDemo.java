@@ -1,3 +1,5 @@
+package com.perscholas.operators;
+
 public class TernaryOperatorDemo {
     public static void main(String[] args) {
         int age = 18;

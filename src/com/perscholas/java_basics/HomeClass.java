@@ -1,3 +1,4 @@
+package com.perscholas.java_basics;
 
 public class HomeClass {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.perscholas.typecasting;
+
 public class ExplicitTest {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package com.perscholas.typecasting;
+
 public class AutoTypeConversion {
     public static void main(String[] args) {
         int x = 20;

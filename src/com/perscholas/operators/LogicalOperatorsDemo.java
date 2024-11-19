@@ -1,3 +1,5 @@
+package com.perscholas.operators;
+
 public class LogicalOperatorsDemo {
     public static void main(String[] args) {
         boolean x = true;

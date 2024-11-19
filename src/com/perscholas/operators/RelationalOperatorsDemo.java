@@ -1,3 +1,5 @@
+package com.perscholas.operators;
+
 public class RelationalOperatorsDemo {
         public static void main(String[] args)
         {
