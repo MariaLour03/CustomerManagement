@@ -21,3 +21,26 @@ public class ReplaceDemoMain {
         System.out.println("Java".replace("C++", "C"));
     }
 }
+//public static int subtractDigits(int number) {
+//    String str = String.valueOf(number);
+//    System.out.println(str);
+//    char[] ch = str.toCharArray();
+//    System.out.println(Arrays.toString(ch));
+//    System.out.println(ch.length);
+//
+//    //int result = Character.getNumericValue(str.charAt(0));// tempresult=0;
+//    //System.out.println(result);
+//    //for (int i=1;i<str.length();i++){
+//    //tempresult = ch[i];
+//    //result = result - Character.getNumericValue(str.charAt(i));;
+//
+//    //}
+//    //return result;
+//
+//
+//    int num = number;
+//int temp = num /100;
+//       System.out.println(temp);
+//int result = temp;
+//       System.out.println(temp);
+//num = num % 100;
